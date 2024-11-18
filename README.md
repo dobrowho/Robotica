@@ -1,6 +1,6 @@
 # Tema III - Laborator robotică
 ## 1.Descriere task
-În această temă facem un joc Quick TIme pe care îl vom juca folosind 2 breadbord-uri iar scorul si rundele vor fi afisate pe un display LCD.
+În această temă facem un joc Quick Time pe care îl vom juca folosind 2 breadbord-uri iar scorul si rundele vor fi afisate pe un display LCD.
 ## 2.Componente utilizate
 - 2x Arduino UNO (ATmega328P microcontroller)
 - 2x LED RGB (pentru a primi culorile)
