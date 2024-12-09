@@ -1,7 +1,10 @@
     Introducere:
 Ideea de proiect: Joc snake pe Display Oled.
+
 Scopul: Joc recreativ pentru a fi jucat doar in timpul liber!
+
 Ideea: Mi-e dor de consolele de jocuri ale copilariei.
+
 Utilitate: Pierderea inutila a timpului pe Pamant prin prisma liberului arbitru.
 
     Descriere generala:
